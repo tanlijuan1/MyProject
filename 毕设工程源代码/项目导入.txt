@@ -1,0 +1,16 @@
+数据库：mysql 5.7 新建数据库academicsysytem，导入sql文件即可
+
+解压project压缩包
+
+前端：nodejs 
+安装完nodejs后 到前端代码目录x:/xx/project/AcademicSystemFont/AcademicSystem，使用cmd命令 npm install 后 npm run dev 
+或者在webstorm软件中打开项目直接运行
+
+后端：使用idea 打开项目x:/xx/project/AcademicSystem
+修改模块中application.yml数据库配置，使用Idea将数据库数据加载进项目
+将文件夹CF移动到E盘中：E:/CF
+启动AcademicSystemApplication
+
+启动成功后在浏览器中输入localhost:8080
+
+
